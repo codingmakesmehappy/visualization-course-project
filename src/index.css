@@ -3,6 +3,11 @@ body {
   margin: 0;
 }
 
+.chart {
+  width: 800px;
+  height: 600px;
+}
+
 p {
   background-color: pink;
   font-size: 36px;
