@@ -1,0 +1,10 @@
+html,
+body {
+  margin: 0;
+}
+
+p {
+  background-color: pink;
+  font-size: 36px;
+  text-align: center;
+}
