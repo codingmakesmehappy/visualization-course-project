@@ -9,10 +9,4 @@ module.exports = merge(common, {
   optimization: {
     minimizer: [new TerserJSPlugin({}), new OptimizeCSSAssetsPlugin({})],
   },
-  externals: {},
-  plugins: [
-    new HtmlWebpackExternalsPlugin({
-      externals: [],
-    }),
-  ],
 });
