@@ -26,6 +26,7 @@
     "mini-css-extract-plugin": "^0.8.0",
     "optimize-css-assets-webpack-plugin": "^5.0.3",
     "prettier": "^1.19.1",
+    "reveal.js": "^4.1.0",
     "style-loader": "^1.0.0",
     "terser-webpack-plugin": "^2.2.3",
     "tslint-config-prettier": "^1.18.0",
@@ -36,6 +37,7 @@
     "webpack-merge": "^4.2.2"
   },
   "devDependencies": {
-    "@types/echarts": "^4.9.0"
+    "@types/echarts": "^4.9.0",
+    "@types/reveal": "^3.3.33"
   }
 }
