@@ -16,6 +16,16 @@ class App {
       width: 1440,
       height: 960,
     });
+    // setInterval(() => {
+    //   // const iframe = document.querySelector(".flourish-embed iframe") as HTMLIFrameElement;
+    //   const containers = document.querySelectorAll(".fl-layout-container");
+    //   console.log(containers);
+    //   containers.forEach(ele => {
+    //     console.log(ele);
+    //     ele.remove();
+    //   });
+    // }, 500);
+
   }
 
   initChart1() {
