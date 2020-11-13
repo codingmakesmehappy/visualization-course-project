@@ -13,8 +13,8 @@ class App {
       // plugins: [Markdown],
     });
     deck.initialize({
-      width: 1440,
-      height: 960,
+      width: 1280,
+      height: 800,
     });
     // setInterval(() => {
     //   // const iframe = document.querySelector(".flourish-embed iframe") as HTMLIFrameElement;
