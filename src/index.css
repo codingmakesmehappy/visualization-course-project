@@ -4,8 +4,16 @@
 /*}*/
 
 .chart {
-  width: 800px;
-  height: 600px;
+    width: 800px;
+    height: 600px;
+}
+
+.flexbox {
+    display: flex;
+}
+
+.flexbox > div {
+    flex: 1;
 }
 
 /*p {*/
