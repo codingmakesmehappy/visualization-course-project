@@ -16,6 +16,22 @@
     flex: 1;
 }
 
+#prediction_date {
+    padding: 24px 8px;
+    box-shadow: 0 3px 2px #777;
+    border: none;
+    width: 300px;
+    outline: none;
+    font-size: 22px;
+    text-align: center;
+}
+
+#prediction_result {
+    display: none;
+    /*font-size: ;*/
+}
+
+
 /*p {*/
 /*  background-color: pink;*/
 /*  font-size: 36px;*/
